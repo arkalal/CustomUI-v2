@@ -1,0 +1,27 @@
+.editorPanel {
+  background-color: #2d2d2d;
+  color: white;
+  padding: 10px;
+
+  input,
+  select {
+    display: block;
+    margin-bottom: 10px;
+    padding: 5px;
+    width: 100%;
+  }
+
+  button {
+    display: block;
+    margin-bottom: 10px;
+    padding: 10px;
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+
+  button:hover {
+    background-color: #45a049;
+  }
+}
